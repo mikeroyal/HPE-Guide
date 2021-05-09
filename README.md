@@ -11,11 +11,11 @@ Hewlett Packard Enterprise (HPE) Cloud Guide
  
 # Table of Contents
 
-1. [Hewlett Packard Enterprise Learning Resources](https://github.com/mikeroyal/HPE-Guide/blob/main/README.md#HPE-GreenLake-learning-resources)
+1. [Hewlett Packard Enterprise Learning Resources](https://github.com/mikeroyal/HPE-Guide/blob/main/README.md#HPE-learning-resources)
 
-2. [Hewlett Packard Enterprise Tools](https://github.com/mikeroyal/HPE-Guide/blob/main/README.md#HPE-GreenLake-tools)
+2. [Hewlett Packard Enterprise Tools](https://github.com/mikeroyal/HPE-Guide/blob/main/README.md#HPE-tools)
 
-3. [Hewlett Packard Enterprise Devops Tools Integration](https://github.com/mikeroyal/DigitalOcean-Guide/blob/main/README.md#HPE-GreenLake-devops-tools-integration)
+3. [Hewlett Packard Enterprise Devops Tools Integration](https://github.com/mikeroyal/DigitalOcean-Guide/blob/main/README.md#HPE-devops-tools-integration)
  
 4. [Networking](https://github.com/mikeroyal/HPE-Guide/blob/main/README.md#networking)
 
