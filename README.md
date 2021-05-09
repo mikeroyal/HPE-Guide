@@ -15,7 +15,7 @@ Hewlett Packard Enterprise (HPE) Cloud Guide
 
 2. [Hewlett Packard Enterprise Tools](https://github.com/mikeroyal/HPE-Guide/blob/main/README.md#HPE-tools)
 
-3. [Hewlett Packard Enterprise Devops Tools Integration](https://github.com/mikeroyal/DigitalOcean-Guide/blob/main/README.md#HPE-devops-tools-integration)
+3. [Hewlett Packard Enterprise Devops Tools Integration](https://github.com/mikeroyal/HPE-Guide/blob/main/README.md#HPE-devops-tools-integration)
  
 4. [Networking](https://github.com/mikeroyal/HPE-Guide/blob/main/README.md#networking)
 
