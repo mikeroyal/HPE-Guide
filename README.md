@@ -36,7 +36,6 @@ Hewlett Packard Enterprise (HPE) Cloud Guide
 12. [Go Development](https://github.com/mikeroyal/HPE-Guide/blob/main/README.md#go-development)
 
 13. [PowerShell Development](https://github.com/mikeroyal/HPE-Guide/blob/main/README.md#powershell-development)
-14. 
 
 <img src="https://user-images.githubusercontent.com/45159366/117585939-25439300-b0ca-11eb-8bca-1efc792fa0f4.png">
  
@@ -1368,7 +1367,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 [Back to the Top](https://github.com/mikeroyal/HPE-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/95128610-89564100-070e-11eb-83de-9697fb490886.png">
+ <img src="https://user-images.githubusercontent.com/45159366/117586850-9e91b480-b0cf-11eb-88cb-e25a3a1c735b.png">
   <br />
 </p>
 
