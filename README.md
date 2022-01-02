@@ -8,6 +8,10 @@ Hewlett Packard Enterprise (HPE) Cloud Guide
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/117585941-270d5680-b0ca-11eb-93dd-f175075e8f1d.png">
+  <br />
+</p>
  
 # Table of Contents
 
@@ -40,11 +44,6 @@ Hewlett Packard Enterprise (HPE) Cloud Guide
 <img src="https://user-images.githubusercontent.com/45159366/117585939-25439300-b0ca-11eb-8bca-1efc792fa0f4.png">
  
  **Hewlett Packard Enterprise (HPE) GreenLake. Source: [HPE](https://www.hpe.com/)** 
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/117585941-270d5680-b0ca-11eb-93dd-f175075e8f1d.png">
-  <br />
-</p>
 
 # HPE Learning Resources
 
